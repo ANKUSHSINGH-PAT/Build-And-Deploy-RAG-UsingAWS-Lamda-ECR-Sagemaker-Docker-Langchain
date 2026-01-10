@@ -1,0 +1,1 @@
+RAG Application deployed with Docker, AWS(Lamdda,Sagemaker,ECR), Hugging Face
