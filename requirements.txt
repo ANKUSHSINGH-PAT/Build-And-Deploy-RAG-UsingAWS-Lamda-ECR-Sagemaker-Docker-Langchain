@@ -6,4 +6,12 @@ bs4
 langchain_community
 langchain_core
 chromadb
+fastapi
+uvicorn
+sentence-transformers
+pydantic-settings
+langchain-groq
+python-dotenv
+awscli
+
 
